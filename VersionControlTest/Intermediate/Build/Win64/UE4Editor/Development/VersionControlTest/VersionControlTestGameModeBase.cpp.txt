@@ -1,7 +1,0 @@
-G:\Arsh\Unreal\Learning\Advanced\VersionControlTest\Intermediate\Build\Win64\UE4Editor\Development\VersionControlTest\Definitions.VersionControlTest.h
-G:\Arsh\Unreal\Learning\Advanced\VersionControlTest\Source\VersionControlTest\VersionControlTestGameModeBase.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-G:\Arsh\Unreal\Learning\Advanced\VersionControlTest\Intermediate\Build\Win64\UE4Editor\Inc\VersionControlTest\VersionControlTestGameModeBase.generated.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VersionControlTest",
+			"Path": "G:\\Arsh\\Unreal\\Learning\\Advanced\\VersionControlTest\\Source\\VersionControlTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VersionControlTestEditor",
+			"Path": "G:\\Arsh\\Unreal\\Learning\\Advanced\\VersionControlTest\\Source\\VersionControlTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VersionControlTest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Arsh\Unreal\Learning\Advanced\VersionControlTest\Intermediate\Build\Win64\VersionControlTestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"G:\Arsh\Unreal\Learning\Advanced\VersionControlTest\Intermediate\Build\Win64\UE4Editor\Development\VersionControlTest\VersionControlTest.cpp.obj"
+"G:\Arsh\Unreal\Learning\Advanced\VersionControlTest\Intermediate\Build\Win64\UE4Editor\Development\VersionControlTest\VersionControlTestGameModeBase.cpp.obj"
+"G:\Arsh\Unreal\Learning\Advanced\VersionControlTest\Intermediate\Build\Win64\UE4Editor\Development\VersionControlTest\VersionControlTest.init.gen.cpp.obj"
+"G:\Arsh\Unreal\Learning\Advanced\VersionControlTest\Intermediate\Build\Win64\UE4Editor\Development\VersionControlTest\VersionControlTestGameModeBase.gen.cpp.obj"
+"G:\Arsh\Unreal\Learning\Advanced\VersionControlTest\Intermediate\Build\Win64\UE4Editor\Development\VersionControlTest\Default.rc2.res"
+/OUT:"G:\Arsh\Unreal\Learning\Advanced\VersionControlTest\Intermediate\Build\Win64\UE4Editor\Development\VersionControlTest\UE4Editor-VersionControlTest.lib"
+/INCLUDE:IMPLEMENT_MODULE_VersionControlTest

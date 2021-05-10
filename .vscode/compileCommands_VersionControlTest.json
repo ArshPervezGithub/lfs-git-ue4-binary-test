@@ -1,0 +1,27 @@
+[
+	{
+		"file": "G:\\\\Arsh\\\\Unreal\\\\Learning\\\\Advanced\\\\VersionControlTest\\\\Source\\\\VersionControlTest\\\\VersionControlTest.Build.cs",
+		"command": "cl.exe @\"G:\\Arsh\\Unreal\\Learning\\Advanced\\VersionControlTest\\.vscode\\compileCommands_VersionControlTest\\VersionControlTest.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\Arsh\\\\Unreal\\\\Learning\\\\Advanced\\\\VersionControlTest\\\\Source\\\\VersionControlTest\\\\VersionControlTest.cpp",
+		"command": "cl.exe @\"G:\\Arsh\\Unreal\\Learning\\Advanced\\VersionControlTest\\.vscode\\compileCommands_VersionControlTest\\VersionControlTest.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\Arsh\\\\Unreal\\\\Learning\\\\Advanced\\\\VersionControlTest\\\\Source\\\\VersionControlTest\\\\VersionControlTest.h",
+		"command": "cl.exe @\"G:\\Arsh\\Unreal\\Learning\\Advanced\\VersionControlTest\\.vscode\\compileCommands_VersionControlTest\\VersionControlTest.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\Arsh\\\\Unreal\\\\Learning\\\\Advanced\\\\VersionControlTest\\\\Source\\\\VersionControlTest\\\\VersionControlTestGameModeBase.cpp",
+		"command": "cl.exe @\"G:\\Arsh\\Unreal\\Learning\\Advanced\\VersionControlTest\\.vscode\\compileCommands_VersionControlTest\\VersionControlTest.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "G:\\\\Arsh\\\\Unreal\\\\Learning\\\\Advanced\\\\VersionControlTest\\\\Source\\\\VersionControlTest\\\\VersionControlTestGameModeBase.h",
+		"command": "cl.exe @\"G:\\Arsh\\Unreal\\Learning\\Advanced\\VersionControlTest\\.vscode\\compileCommands_VersionControlTest\\VersionControlTest.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]
